@@ -46,10 +46,10 @@
 
 /* Base Styles
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
-  body {
-	margin:0;
-	padding:0;
-	background-color:#ffffff;
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#f7eed2;
 	color:#1a1a1a;
 	font-family:"Open Sans",system-ui;
     font-weight:400;
@@ -162,7 +162,7 @@ a:hover {
   	background-color:var(--button-background,transparent);
 	color:var(--button-text,#000000);
 	border:var(--button-border,none);
-	border-radius:0.5rem;
+	border-radius:1rem;
 	cursor:pointer;
 	box-sizing:border-box;
 	hyphens:auto;               	/* Delete this to remove automatic hyphen on line break */
@@ -231,7 +231,7 @@ a:hover {
 }
 @media (prefers-color-scheme:dark) {
 	:root.theme-auto body {
-	background-color:#121212;
+	background-color:#202326;
 	color:#ffffff;
 }
 :root.theme-auto :focus-visible {
