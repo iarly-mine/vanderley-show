@@ -20,7 +20,7 @@ Página de links centralizados (*Link in Bio*) desenvolvida para o artista **Wan
 ---
 
 ### Acesso ao Projeto
-* **Link de Produção:** [vanderley-show.vercel.app](https://vanderley-show.vercel.app)
+* **Link de Produção:** [wanderley-show.vercel.app](https://wanderley-show.vercel.app)
 
 ---
 
